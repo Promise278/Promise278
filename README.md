@@ -7,8 +7,7 @@
 
 
 **Connect with Me:**
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/promise-obi-9a6878328/)
-  - [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61554620361196)
-  - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/promise_pi10664)
-
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/promise-obi-9a6878328/)
+  - [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=61554620361196)
+  - [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/promise_pi10664)
 
