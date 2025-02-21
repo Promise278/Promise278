@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Promise278
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/promise-obi-9a6878328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Promise278.
+- 👀 I’m interested in JavaScript.
+- 🌱 I’m currently learning
+- 💞️ I’m looking forward to collaborate on Real World Projects.
+- 📫 How to reach me promiseobi2007@gmail.com.
+- 👨‍💻 Look to see my Projects https://github.com/Promise278?tab=repositories.
 
-<!---
-Promise278/Promise278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Connect with Me:
+  - https://www.linkedin.com/in/promise-obi-9a6878328/
+  - https://www.facebook.com/profile.php?id=61554620361196
+  - https://x.com/promise_pi10664
+
+
